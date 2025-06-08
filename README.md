@@ -1,8 +1,8 @@
-# 🏏 Cricket Data Analytics Project: ICC World Cup 2022
+# 🏏 Cricket Data Analytics Project: ICC World Cup 2025
 
 ## 📌 Project Overview
 
-This project demonstrates how data analytics can be used to determine the **best playing 11** for a cricket tournament — specifically, the **ICC Cricket World Cup 2022**. It combines **web scraping**, **Python & Pandas** for data transformation, and **Power BI** for data visualization.
+This project demonstrates how data analytics can be used to determine the **best playing 11** for a cricket tournament — specifically, the **ICC Cricket World Cup 2025**. It combines **web scraping**, **Python & Pandas** for data transformation, and **Power BI** for data visualization.
 
 The primary goal was to extract performance data from ESPN Cricinfo, process and analyze it, and ultimately provide **data-driven insights** to support team selection and strategic planning.
 
